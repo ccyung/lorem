@@ -1,6 +1,6 @@
 ---
 title: Yes
-layout:
+layout: main
 ---
 
 This is a trial.
